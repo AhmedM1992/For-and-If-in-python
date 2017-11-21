@@ -1,0 +1,5 @@
+names = ['Ann', 'Fillip', 'Monika', 'Ross', 'Sam', 'Alf', 'Roy', 'Sasha', 'Leon']
+index = 0
+for item in names:
+    print (index, item)
+    index +=1
