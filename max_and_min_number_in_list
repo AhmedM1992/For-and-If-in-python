@@ -7,3 +7,12 @@ for i in numbers:
       max_value = [i]
       print "max number is", max_value
 max number is [33]
+
+
+#MIN NUMBER IN LIST
+
+min_value = numbers[8]
+for i in numbers:
+    if i < min_value:
+    print "min number is", i
+min number is -5
